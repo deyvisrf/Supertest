@@ -4,7 +4,7 @@
   "description": "Teste API",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha -R spec test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/deyvisrf/Supertest/issues"
   },
-  "homepage": "https://github.com/deyvisrf/Supertest#readme"
+  "homepage": "https://github.com/deyvisrf/Supertest#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "supertest": "^3.0.0"
+  }
 }
