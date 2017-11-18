@@ -1,0 +1,26 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Teste API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deyvisrf/Supertest.git"
+  },
+  "keywords": [
+    "Api",
+    "test",
+    "Mocha",
+    "SuperTest",
+    "Chai"
+  ],
+  "author": "Deyvis Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deyvisrf/Supertest/issues"
+  },
+  "homepage": "https://github.com/deyvisrf/Supertest#readme"
+}
